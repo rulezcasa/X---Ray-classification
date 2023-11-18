@@ -4,9 +4,9 @@
 ## Steps to run the application:
 1. Set up a virtual environment(optional).
 2. Clone the files maintaing the same directory structure.
-3. Navigate into the development phase directory to view source codes and flask files.
+3. Navigate into the app directory to view the model and flask files.
 4. Install all the dependencies listed out on the 'requirements.txt' file under development phase directory.
-5. Execute all the cells of the ipynb file sequentially - To obtain saved model.
+5. Execute all the cells of the ipynb file sequentially - To obtain the saved model manually.
 6. Open app.py using any IDE that supports flask framework.
 7. Run the program and open the specified port number on the browser.
 
